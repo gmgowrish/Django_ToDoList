@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your Django To-Do list application:
-
----
-
 # Django To-Do List Application
 
 This is an interactive and feature-rich To-Do list application built with Django. Users can create, manage, and track their tasks easily.
